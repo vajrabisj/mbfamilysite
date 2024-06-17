@@ -1,0 +1,19 @@
+#!/bin/sh
+#|-*- mode:lisp -*-|#
+#|
+exec ros -Q -- $0 "$@"
+|#
+(progn ;;init forms
+  (ros:ensure-asdf)
+  #+quicklisp(ql:quickload '() :silent t)
+  (ql:quickload :staticl)
+  )
+
+(defpackage :ros.script.mbsite.3927615642
+  (:use :cl))
+(in-package :ros.script.mbsite.3927615642)
+
+(defun main (&rest argv)
+  (declare (ignorable argv))
+   (staticl:serve :root-dir #P"/root/mytemp/testing-site/mbfamilysite" :stage-dir #P"/root/mytemp/testing-site/mbfamilysite/result" :interface "0.0.0.0" :port 5000))
+;;; vim: set ft=lisp lisp:

@@ -1,5 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>My Testing Site using Staticl</title><link>http://testing.mb/</link><description></description><guid isPermaLink="false">http://testing.mb/</guid><lastBuildDate>Mon, 17 Jun 2024 09:27:58 +0000</lastBuildDate><item><title>The first post</title><link>http://testing.mb/blog/first/</link><description>&lt;p&gt;This post contains some &lt;em&gt;Markdown&lt;/em&gt; markup.&lt;/p&gt;
-</description><guid isPermaLink="false">http://testing.mb/blog/first/</guid><lastBuildDate>Mon, 17 Jun 2024 09:27:58 +0000</lastBuildDate><content:encoded>&lt;p&gt;This post contains some &lt;em&gt;Markdown&lt;/em&gt; markup.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>MB Testing Site</title><link>http://testing.mb/</link><description></description><guid isPermaLink="false">http://testing.mb/</guid><lastBuildDate>Mon, 17 Jun 2024 12:41:59 +0000</lastBuildDate><item><title>The third post</title><link>http://testing.mb/blog/third/</link><description>&lt;p&gt;静态网页的再次测试.&lt;/p&gt;
+</description><guid isPermaLink="false">http://testing.mb/blog/third/</guid><lastBuildDate>Mon, 17 Jun 2024 12:41:59 +0000</lastBuildDate><content:encoded>&lt;p&gt;静态网页的再次测试.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;刚刚在阿里云的服务器端部署好了这个静态网站的systemd服务！&lt;/p&gt;
+</content:encoded></item><item><title>The first post</title><link>http://testing.mb/blog/first/</link><description>&lt;p&gt;This post contains some &lt;em&gt;Markdown&lt;/em&gt; markup.&lt;/p&gt;
+</description><guid isPermaLink="false">http://testing.mb/blog/first/</guid><lastBuildDate>Mon, 17 Jun 2024 12:41:59 +0000</lastBuildDate><content:encoded>&lt;p&gt;This post contains some &lt;em&gt;Markdown&lt;/em&gt; markup.&lt;/p&gt;
 
 &lt;!--more--&gt;
 
@@ -7,9 +13,10 @@
 
 &lt;p&gt;This is the very &lt;em&gt;first&lt;/em&gt; post after successfully setting up the staticl on my server.&lt;/p&gt;
 </content:encoded></item><item><title>The second post</title><link>http://testing.mb/blog/second/</link><description>&lt;p&gt;Another post. StatiCL is more versatile than Coleslaw, because of it's modular architecture.&lt;/p&gt;
-</description><guid isPermaLink="false">http://testing.mb/blog/second/</guid><lastBuildDate>Mon, 17 Jun 2024 09:27:58 +0000</lastBuildDate><content:encoded>&lt;p&gt;Another post. StatiCL is more versatile than Coleslaw, because of it's modular architecture.&lt;/p&gt;
+</description><guid isPermaLink="false">http://testing.mb/blog/second/</guid><lastBuildDate>Mon, 17 Jun 2024 12:41:59 +0000</lastBuildDate><content:encoded>&lt;p&gt;Another post. StatiCL is more versatile than Coleslaw, because of it's modular architecture.&lt;/p&gt;
 
 &lt;!--more--&gt;
 
-&lt;p&gt;Following part only visible on the post page, not in the indices.&lt;/p&gt;
+&lt;p&gt;Following part only visible on the post page, not in the indices.
+这是一篇中文短文的测试！&lt;/p&gt;
 </content:encoded></item></channel></rss>

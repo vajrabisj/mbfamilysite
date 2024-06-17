@@ -1,0 +1,12 @@
+;;;;;
+title: The third post
+tags: 测试
+created-at: 2024-06-17
+format: md
+;;;;;
+
+静态网页的再次测试.
+
+<!--more-->
+
+刚刚在阿里云的服务器端部署好了这个静态网站的systemd服务！
