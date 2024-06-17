@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang=""> <head> <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"> <title>My Testing Site using Staticl</title> <meta name="viewport" content="width=device-width, initial-scale=1.0"> <link href="/css/bootstrap.min.css" rel="stylesheet" media="screen"> <link href="/css/custom.css" rel="stylesheet" media="screen"> <link rel="alternate" href="/rss.xml" type="application/rss+xml" /> 
+<script>
+var eventSource = new EventSource('/events');
+
+eventSource.addEventListener('reload-page', function(event) {
+  console.log('Reloading the page');
+  location.reload();
+});
+
+eventSource.onerror = function(err) {
+  console.error('EventSource failed:', err);
+};
+</script> </head> <body class="staticl-page"> <div class="container-fluid"> <div class="row-fluid"> <div class="offset2 span8"> <div class="row-fluid"> <div class="navbar navbar-inverse"> <div class="navbar-inner"> <a class="brand" href="/">My Testing Site using Staticl</a> <ul class="nav"> <li> <a href="/blog/">Blog</a> </li><li> <a href="/about/">About</a> </li> </ul> </div> </div> </div>  <div class="row-fluid"> <div class="row-fluid content">
+<h1 class="page-header">About this site</h1>
+<p>  </p> <p class="date-posted"> Written on 2024-03-30 </p> <h2>Subtitle</h2>
+<p>This is an example of a page written using Spinneret. It&#39;s main advantage 
+ is an ability to use Lisp for HTML generation.
+<p>You can execute any code to get data for the page - access a database or some 
+ API. Note that these actions will be performed during the build stage and site 
+ itself will remain static.
+<p>Using Spinneret you can use any HTML markup. If you want to draw a red square, 
+ you just do it:
+<div
+     style="width: 200px; height: 200px; background: red;"></div> <ul class="pager"> 
+
+</ul> </div>
+ </div>  <div class="row-fluid"> <hr> <p class="fineprint">Unless otherwise credited all material <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.en_US"> <img alt="Creative Commons License" style="border-width:0" src="/img/cc-by-sa.png" /> </a>  <a id="staticl-logo" href="https://github.com/40ants/staticl"> <img src="/img/staticl-logo-small.webp" style="height: 32px" alt="StatiCL logo" /></p> </a> </div> </div> </div> </div> <script src="/js/bootstrap.min.js"></script> </body> </html>

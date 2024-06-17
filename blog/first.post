@@ -1,0 +1,14 @@
+;;;;;
+title: The first post
+tags: testing
+created-at: 2024-06-17
+format: md
+;;;;;
+
+This post contains some *Markdown* markup.
+
+<!--more-->
+
+Following part only visible on the post page, not in the indices.
+
+This is the very *first* post after successfully setting up the staticl on my server.
