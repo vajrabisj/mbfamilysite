@@ -1,0 +1,13 @@
+;;;;;
+title: The second post
+tags: testing
+created-at: 2024-06-17
+format: md
+;;;;;
+
+Another post. StatiCL is more versatile than Coleslaw, because of it's modular architecture.
+
+<!--more-->
+
+Following part only visible on the post page, not in the indices.
+这是一篇中文短文的测试！
