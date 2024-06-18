@@ -5,7 +5,7 @@ created-at: 2024-06-17
 format: spinneret
 ;;;;;
 
-(:h2 testing picture)
+(:h2 "testing picture")
 
 (:p (:img :src "./IMG_6503.jpeg"
           :alt "Corgi Jordan"))
