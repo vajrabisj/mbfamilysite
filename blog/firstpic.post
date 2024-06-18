@@ -2,9 +2,11 @@
 title: The forth post
 tags: testing
 created-at: 2024-06-17
-format: md
+format: spinneret
 ;;;;;
 
-testing picture:
+(:h2 testing picture:)
 
-![Jordan](https://github.com/vajrabisj/mbfamilysite/blob/main/blog/IMG_6503.jpeg)
+(:p (:img :src "./IMG_6503.jpeg"
+          :alt "Corgi Jordan"))
+
