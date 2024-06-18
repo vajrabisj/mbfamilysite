@@ -2,11 +2,10 @@
 title: The forth post
 tags: testing
 created-at: 2024-06-17
-format: spinneret
+format: md
 ;;;;;
 
-(:h2 "testing picture")
+testing picture:
 
-(:p (:img :src "./IMG_6503.jpeg"
-          :alt "Corgi Jordan"))
+!["Corgi Jordan"](IMG_6503.jpeg)
 
