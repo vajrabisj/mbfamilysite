@@ -9,5 +9,4 @@ Another post. StatiCL is more versatile than Coleslaw, because of it's modular a
 
 <!--more-->
 
-Following part only visible on the post page, not in the indices.
-这是一篇中文短文的测试！
+以这篇来测试一下中文！之前就试过Coleslaw，这是一个简洁的blog生成工具，当然也是用common lisp语言来编写的。但自从看到了staticl之后发现他就是我想要的blog及静态网站工具。它不用你把精力花在如何编排网站架构和程序语言上，而只用简单的几步就完成整个网站的基础设置，然后你就可以集中精力去写你的blog了！而且最关键的是区别于其他动态网站，你不需要频繁地重启或重置你的服务器，只需__简单的__在完成一篇blog post之后，用staticl:generate来吧post stage到result目录就done了...之后有时间就写一篇如何使用这个工具吧...

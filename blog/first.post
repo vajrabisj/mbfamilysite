@@ -11,4 +11,4 @@ This post contains some *Markdown* markup.
 
 Following part only visible on the post page, not in the indices.
 
-This is the very *first* post after successfully setting up the staticl on my server.
+This is the very *first* post after successfully setting up the [staticl](https://github.com/40ants/staticl) on my ali-yun server. This is the first time i test a static site which i really don't have any idea about that. After reading the documentations and example in the staticl package from [40ants](https://40ants.com/staticl/) i am impressed by the clean, simple and effective of such a site building tool which after resolving several misunderstanding and/or bugs... And through testing this package tool 1) i understood that how other sites are doing by connecting statical contents to github and 2) the powerful and logic of lisp :) i think i will continue to learn how to programming and using lisp to make my life more colorful and effient!

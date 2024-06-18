@@ -1,24 +1,29 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>MB Testing Site</title><link>http://testing.mb/</link><description></description><guid isPermaLink="false">http://testing.mb/</guid><lastBuildDate>Mon, 17 Jun 2024 14:20:36 +0000</lastBuildDate><item><title>The third post</title><link>http://testing.mb/blog/third/</link><description>&lt;p&gt;静态网页的再次测试.&lt;/p&gt;
-</description><guid isPermaLink="false">http://testing.mb/blog/third/</guid><lastBuildDate>Mon, 17 Jun 2024 14:20:36 +0000</lastBuildDate><content:encoded>&lt;p&gt;静态网页的再次测试.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>MB Testing Site</title><link>http://testing.mb/</link><description></description><guid isPermaLink="false">http://testing.mb/</guid><lastBuildDate>Tue, 18 Jun 2024 03:46:27 +0000</lastBuildDate><item><title>The third post</title><link>http://testing.mb/blog/third/</link><description>&lt;p&gt;静态网页的再次测试.&lt;/p&gt;
+</description><guid isPermaLink="false">http://testing.mb/blog/third/</guid><lastBuildDate>Tue, 18 Jun 2024 03:46:27 +0000</lastBuildDate><content:encoded>&lt;p&gt;静态网页的再次测试.&lt;/p&gt;
 
 &lt;!--more--&gt;
 
 &lt;p&gt;刚刚在阿里云的服务器端部署好了这个静态网站的systemd服务！&lt;/p&gt;
 </content:encoded></item><item><title>The forth post</title><link>http://testing.mb/blog/forth/</link><description>&lt;p&gt;Got impressed by this static site generating tool: staticl, which is the liabrary from 40ants that consist of a group lisp hachers :) Well done and keep up the great work!&lt;/p&gt;
-</description><guid isPermaLink="false">http://testing.mb/blog/forth/</guid><lastBuildDate>Mon, 17 Jun 2024 14:20:36 +0000</lastBuildDate><content:encoded>&lt;p&gt;Got impressed by this static site generating tool: staticl, which is the liabrary from 40ants that consist of a group lisp hachers :) Well done and keep up the great work!&lt;/p&gt;
+</description><guid isPermaLink="false">http://testing.mb/blog/forth/</guid><lastBuildDate>Tue, 18 Jun 2024 03:46:27 +0000</lastBuildDate><content:encoded>&lt;p&gt;Got impressed by this static site generating tool: staticl, which is the liabrary from 40ants that consist of a group lisp hachers :) Well done and keep up the great work!&lt;/p&gt;
+</content:encoded></item><item><title>The forth post</title><link>http://testing.mb/blog/firstpic/</link><description>&lt;p&gt;testing picture:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;IMG_6503.jpg&quot; alt=&quot;Corgi Jordan&quot; /&gt;&lt;/p&gt;
+</description><guid isPermaLink="false">http://testing.mb/blog/firstpic/</guid><lastBuildDate>Tue, 18 Jun 2024 03:46:27 +0000</lastBuildDate><content:encoded>&lt;p&gt;testing picture:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;IMG_6503.jpg&quot; alt=&quot;Corgi Jordan&quot; /&gt;&lt;/p&gt;
 </content:encoded></item><item><title>The first post</title><link>http://testing.mb/blog/first/</link><description>&lt;p&gt;This post contains some &lt;em&gt;Markdown&lt;/em&gt; markup.&lt;/p&gt;
-</description><guid isPermaLink="false">http://testing.mb/blog/first/</guid><lastBuildDate>Mon, 17 Jun 2024 14:20:36 +0000</lastBuildDate><content:encoded>&lt;p&gt;This post contains some &lt;em&gt;Markdown&lt;/em&gt; markup.&lt;/p&gt;
+</description><guid isPermaLink="false">http://testing.mb/blog/first/</guid><lastBuildDate>Tue, 18 Jun 2024 03:46:27 +0000</lastBuildDate><content:encoded>&lt;p&gt;This post contains some &lt;em&gt;Markdown&lt;/em&gt; markup.&lt;/p&gt;
 
 &lt;!--more--&gt;
 
 &lt;p&gt;Following part only visible on the post page, not in the indices.&lt;/p&gt;
 
-&lt;p&gt;This is the very &lt;em&gt;first&lt;/em&gt; post after successfully setting up the staticl on my server.&lt;/p&gt;
+&lt;p&gt;This is the very &lt;em&gt;first&lt;/em&gt; post after successfully setting up the &lt;a href=&quot;https://github.com/40ants/staticl&quot; &gt;staticl&lt;/a&gt; on my ali-yun server. This is the first time i test a static site which i really don't have any idea about that. After reading the documentations and example in the staticl package from &lt;a href=&quot;https://40ants.com/staticl/&quot; &gt;40ants&lt;/a&gt; i am impressed by the clean, simple and effective of such a site building tool which after resolving several misunderstanding and/or bugs... And through testing this package tool 1) i understood that how other sites are doing by connecting statical contents to github and 2) the powerful and logic of lisp :) i think i will continue to learn how to programming and using lisp to make my life more colorful and effient!&lt;/p&gt;
 </content:encoded></item><item><title>The second post</title><link>http://testing.mb/blog/second/</link><description>&lt;p&gt;Another post. StatiCL is more versatile than Coleslaw, because of it's modular architecture.&lt;/p&gt;
-</description><guid isPermaLink="false">http://testing.mb/blog/second/</guid><lastBuildDate>Mon, 17 Jun 2024 14:20:36 +0000</lastBuildDate><content:encoded>&lt;p&gt;Another post. StatiCL is more versatile than Coleslaw, because of it's modular architecture.&lt;/p&gt;
+</description><guid isPermaLink="false">http://testing.mb/blog/second/</guid><lastBuildDate>Tue, 18 Jun 2024 03:46:27 +0000</lastBuildDate><content:encoded>&lt;p&gt;Another post. StatiCL is more versatile than Coleslaw, because of it's modular architecture.&lt;/p&gt;
 
 &lt;!--more--&gt;
 
-&lt;p&gt;Following part only visible on the post page, not in the indices.
-这是一篇中文短文的测试！&lt;/p&gt;
+&lt;p&gt;以这篇来测试一下中文！之前就试过Coleslaw，这是一个简洁的blog生成工具，当然也是用common lisp语言来编写的。但自从看到了staticl之后发现他就是我想要的blog及静态网站工具。它不用你把精力花在如何编排网站架构和程序语言上，而只用简单的几步就完成整个网站的基础设置，然后你就可以集中精力去写你的blog了！而且最关键的是区别于其他动态网站，你不需要频繁地重启或重置你的服务器，只需__简单的__在完成一篇blog post之后，用staticl:generate来吧post stage到result目录就done了...之后有时间就写一篇如何使用这个工具吧...&lt;/p&gt;
 </content:encoded></item></channel></rss>
